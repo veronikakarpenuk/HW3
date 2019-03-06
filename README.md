@@ -1,10 +1,14 @@
 # HW3
 
+4
+
 ![](pic1.PNG) 
 
 ![](pic2.PNG)
 
 ![](pic3.PNG)
+
+3
 
 ![](pic4.PNG)
 
